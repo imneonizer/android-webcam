@@ -1,5 +1,9 @@
 # Android Webcam (4K)
 
+[![Companion YT Video](https://i.imgur.com/v1J9sK7.png)](https://youtu.be/JZdKoet9-6o")
+
+
+
 Having a laptop without decent webcam is like a nightmare for me, But fortunately  I happen to have an Android phone lying around hence I decided to use it as my `4K USB Webcam`.
 
 >  This guide is focused for Linux users.
