@@ -1,6 +1,6 @@
 # Android Webcam (4K)
 
-[![Companion YT Video](https://i.imgur.com/v1J9sK7.png)](https://youtu.be/JZdKoet9-6o")
+[![Companion YT Video](asset/yt-thumb.png)](https://youtu.be/JZdKoet9-6o")
 
 
 
